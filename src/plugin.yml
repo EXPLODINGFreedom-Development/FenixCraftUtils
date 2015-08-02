@@ -1,0 +1,42 @@
+name: EFUtils
+version: 1.3
+main: com.efdevelopment.fenixcraftutils.FenixCraftUtils
+description: EFUtils - A Informational and Helpful Plugin For EXPLODINGFreedom
+authors: [Alco_Rs11]
+commands:
+    fenixcraftutils:
+        usage: /<command>
+        description: EFUtils information and versioning.
+        aliases: information
+    adminlist:
+        usage: /<command>
+        description: Admin List
+        aliases: alist
+    groupmanager:
+        usage: /<command>
+        description: Tell people we dont use groupmanager or PermissionsEx.
+        aliases: permissionsex
+    griefreport:
+        usage: /<command>
+        description: Alert admins about a grief.
+        aliases: gmr
+    requestop:
+        usage: /<command>
+        description: Tell admins your not OP.
+        aliases: ineedop
+    requesthelp:
+        usage: /<command>
+        description: Ask administrators for assistance, same thing as /ineedhelp.
+        aliases: ineedhelp  
+    adminrules:
+        usage: /<command>
+        description: Rules and regulations for Administrators.
+        aliases: arules
+    newbie:
+        usage: /<command>
+        description: Used to give a welcome message from panel, same thing as /welcomenewbie.
+        aliases: welcomenewb
+    cmdlist:
+        usage: /<command>
+        description: List of all the plugin's commands.
+        aliases: commandlist
